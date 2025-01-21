@@ -1,4 +1,3 @@
-# tutorialgdgc
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,10 +23,10 @@
             </div>
         </div>
     </section>
-    <section>
-        <footer>
-            
-        </footer>
-    </section>
+
+    <!-- Footer Section -->
+    <footer style="text-align:center; background-color: #333; color: white; padding: 10px;">
+        <p>&copy; 2025 GDGC Tutorials. All rights reserved.</p>
+    </footer>
 </body>
 </html>
